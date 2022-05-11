@@ -1,10 +1,10 @@
 import mouse
 import time
-from pynput.keyboard import Key, Controller
-import pyautogui
+# from pynput.keyboard import Key, Controller
+# import pyautogui
 import pydirectinput as pg
-import win32api
-import win32con
+# import win32api
+# import win32con
 
 i = 0
 while i < 6000:
