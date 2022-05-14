@@ -1,5 +1,5 @@
 # Golf with your friends
-I created those scripts to farm achievements that were repetitive, boring and required a lot of time to accomplish.
+I created these scripts to farm achievements that were repetitive, boring and required a lot of time to accomplish.
 
 <hr>
 <h3 style="margin: 1px;">shots.py</h3>
